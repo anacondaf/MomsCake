@@ -1,0 +1,6 @@
+{
+  "DbSettings": {
+    "DbProvider": "mysql",
+    "ConnectionString": "Server=localhost;Database=momscake;Uid=root;Pwd=root@123;"
+  }
+}
