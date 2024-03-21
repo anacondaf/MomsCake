@@ -26,7 +26,9 @@ class _AppNavigatorState extends State<AppNavigator> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: null,
-      body: _screens[_currentIndex],
+      body: SafeArea(
+        child: _screens[_currentIndex],
+      ),
       extendBody: true,
       floatingActionButton: const FAB(),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,

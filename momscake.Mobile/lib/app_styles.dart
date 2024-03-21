@@ -9,53 +9,51 @@ class AppStyles {
   static Color white = const Color(0xfff6f4f3);
   static Color black = const Color(0xff363231);
 
+  static Color onboardingDarkBg = const Color(0xff0b0504);
+
+  static Color obSubtitle = const Color(0xff4f4f4f);
+
   static TextStyle h1 = GoogleFonts.dancingScript(
-    textStyle: const TextStyle(
-      fontSize: 52.0,
-      fontWeight: FontWeight.bold,
-    )
-  );
+      textStyle: const TextStyle(
+    fontSize: 52.0,
+    fontWeight: FontWeight.bold,
+  ));
 
   static TextStyle h2 = GoogleFonts.dancingScript(
       textStyle: const TextStyle(
-        fontSize: 36.0,
-        fontWeight: FontWeight.bold,
-      )
-  );
+    fontSize: 36.0,
+    fontWeight: FontWeight.bold,
+  ));
 
   static TextStyle h3 = GoogleFonts.roboto(
       textStyle: const TextStyle(
-        fontSize: 26.0,
-        fontWeight: FontWeight.w500,
-      )
-  );
+    fontSize: 26.0,
+    fontWeight: FontWeight.w500,
+  ));
 
   static TextStyle b1 = GoogleFonts.roboto(
       textStyle: const TextStyle(
-        fontSize: 18.0,
-        fontWeight: FontWeight.w500,
-      )
-  );
+    fontSize: 18.0,
+    fontWeight: FontWeight.w500,
+  ));
 
   static TextStyle b2 = GoogleFonts.roboto(
       textStyle: const TextStyle(
-        fontSize: 16.0,
-        fontWeight: FontWeight.w500,
-      )
-  );
+    fontSize: 16.0,
+    fontWeight: FontWeight.w500,
+  ));
 
   static TextStyle b3 = GoogleFonts.roboto(
       textStyle: const TextStyle(
-        fontSize: 14.5,
-        fontWeight: FontWeight.normal,
-      )
-  );
+    fontSize: 14.5,
+    fontWeight: FontWeight.normal,
+  ));
 
   static TextStyle c1 = GoogleFonts.roboto(
       textStyle: const TextStyle(
-        fontSize: 12.0,
-        fontWeight: FontWeight.normal,
-      )
-  );
+    fontSize: 12.0,
+    fontWeight: FontWeight.normal,
+  ));
 }
 
+class OnboardingStyles {}
