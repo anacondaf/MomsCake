@@ -1,0 +1,13 @@
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/bin/Debug/net8.0/Domain.dll
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/bin/Debug/net8.0/Domain.pdb
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.dll
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.pdb
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/ref/Domain.dll
