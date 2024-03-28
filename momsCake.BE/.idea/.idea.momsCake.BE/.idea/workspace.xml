@@ -27,630 +27,151 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="750b6256-b672-484f-a93e-6cb93dfcb16b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.momsCake.Api.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.momsCake.Api.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.momsCake.Api.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.momsCake.Api.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.momsCake/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCake/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCake/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCake/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCake/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCake/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCakeBE/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.idea.momsCakeBE/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/Api.Tests.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/GlobalUsings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/UnitTest1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Api.Tests.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Api.Tests.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Api.Tests.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/Api.Tests.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/Api.Tests.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/Api.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/Api.Tests.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/Api.Tests.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Debug/net8.0/Api.Tests.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/Api.Tests.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/Api.Tests.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/Api.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/Api.Tests.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/Api.Tests.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/Release/net8.0/Api.Tests.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.Tests/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Api.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Api.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Benchmark/BenchmarkLinqPerformance.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Benchmark/BenchmarkSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Benchmark/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/Api.Benchmark.BenchmarkLinqPerformance-20240311-150201.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/Api.Benchmark.BenchmarkLinqPerformance-20240311-150213.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/Api.Benchmark.BenchmarkLinqPerformance-20240311-150232.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/BenchmarkRun-20240311-150040.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/results/Api.Benchmark.BenchmarkLinqPerformance-report-github.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/results/Api.Benchmark.BenchmarkLinqPerformance-report.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/BenchmarkDotNet.Artifacts/results/Api.Benchmark.BenchmarkLinqPerformance-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Configurations/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Configurations/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Configurations/benchmark.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Configurations/benchmark.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Configurations/database.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Configurations/database.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Controllers/CakeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Controllers/CakeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Controllers/DefaultApiController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Controllers/DefaultApiController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Domains/Cake.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/Models/Cake.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Domains/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/Models/Category.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Domains/Contracts/BaseEntity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Domains/GlobalUsings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Enums/CakeCategory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/Enums/CakeCategory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Db/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Db/Configurations/CakeConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/Configurations/CakeConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Db/Configurations/CategoryConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/Configurations/CategoryConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Db/DbSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/DbSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Db/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Middlewares/LinqMiddleware.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Api" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Api.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Api.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Api.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/BenchmarkDotNet.Annotations.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/BenchmarkDotNet.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/CommandLine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Configurations/database.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Dia2Lib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Gee.External.Capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Humanizer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Iced.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Diagnostics.FastSerialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Diagnostics.NETCore.Client.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Diagnostics.Runtime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Diagnostics.Tracing.TraceEvent.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Microsoft.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Mono.TextTemplating.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/MySqlConnector.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/NewId.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/OSExtensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Perfolizer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.CodeDom.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Composition.Convention.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Composition.Hosting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Composition.Runtime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Composition.TypedParts.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Management.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Text.Encodings.Web.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/System.Text.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/TraceReloggerLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/amd64/KernelTraceControl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/amd64/msdia140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/amd64/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/amd64/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/amd64/vcruntime140_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/arm64/KernelTraceControl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/arm64/msdia140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/arm64/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/arm64/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/arm64/vcruntime140_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/linux-arm/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/linux-arm64/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/linux-x64/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/linux-x86/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/osx-arm64/native/libcapstone.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/osx-x64/native/libcapstone.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/win-arm64/native/capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/win-x64/native/capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/win-x86/native/capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/runtimes/win/lib/netcoreapp2.0/System.Management.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/x86/KernelTraceControl.Win61.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/x86/KernelTraceControl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/x86/msdia140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/x86/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/x86/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Api" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Api.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Api.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Api.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/BenchmarkDotNet.Annotations.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/BenchmarkDotNet.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/CommandLine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Configurations/benchmark.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Configurations/database.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Dia2Lib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Gee.External.Capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Humanizer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Iced.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Diagnostics.FastSerialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Diagnostics.NETCore.Client.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Diagnostics.Runtime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Diagnostics.Tracing.TraceEvent.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Logging.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Microsoft.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Mono.TextTemplating.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/MySqlConnector.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/NewId.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/OSExtensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Perfolizer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Pomelo.EntityFrameworkCore.MySql.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.CodeDom.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Composition.AttributedModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Composition.Convention.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Composition.Hosting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Composition.Runtime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Composition.TypedParts.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Management.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Text.Encodings.Web.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/System.Text.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/TraceReloggerLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/amd64/KernelTraceControl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/amd64/msdia140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/amd64/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/amd64/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/amd64/vcruntime140_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/arm64/KernelTraceControl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/arm64/msdia140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/arm64/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/arm64/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/arm64/vcruntime140_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/linux-arm/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/linux-arm64/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/linux-x64/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/linux-x86/native/libcapstone.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/osx-arm64/native/libcapstone.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/osx-x64/native/libcapstone.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/win-arm64/native/capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/win-x64/native/capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/win-x86/native/capstone.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/runtimes/win/lib/netcoreapp2.0/System.Management.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/x86/KernelTraceControl.Win61.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/x86/KernelTraceControl.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/x86/msdia140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/x86/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/x86/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Api.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Api.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Api.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/Api.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/apphost" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/ref/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/refint/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Api.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Api.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Api.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/Api.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/apphost" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/ref/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/refint/Api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/staticwebassets.build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/staticwebassets/msbuild.build.Api.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.Api.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.Api.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/Benchmark.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Benchmark.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Benchmark.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Benchmark.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/Benchmark.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/Benchmark.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/Benchmark.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/Benchmark.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/Benchmark.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Debug/net8.0/Benchmark.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/Benchmark.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/Benchmark.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/Benchmark.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/Benchmark.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/Benchmark.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/Release/net8.0/Benchmark.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Benchmark/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/IdentityServer.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/IdentityServer.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/IdentityServer.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/IdentityServer.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/IdentityServer.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/IdentityServer.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/IdentityServer.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/Debug/net8.0/IdentityServer.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/IdentityServer.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/IdentityServer.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/IdentityServer.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IdentityServer/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/Order.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/Order.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/Order.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/Order.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/Order.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/Order.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/Order.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Debug/net8.0/Order.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Order.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Order.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/Order.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Order/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/momsCakeBE.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/kotlin/com/example/moms_cake/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/Lottie/cake_splash.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/category_croissant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/category_mousse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/category_panna cotta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/category_popular.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/category_tiramisu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/croissant/almond_croissant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/croissant/babka_croissant.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/croissant/croissant_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/croissant/croissant_french.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/croissant/pistachio_croissants.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/croissant/rose-lychee-ispahan-croissant3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/casual.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/celebrating.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/ellipse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/family.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/havingfun.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/ontheway.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/assets/svg/onboardings/outdoorparty.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/AppNavigator.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/app_styles.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/components/CakeCategoryCard.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/components/CakeIndividualCard.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/components/SearchWidget.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/screens/CategoryViewScreen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/screens/HomeScreen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/screens/OnboardingScreen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/screens/SecondScreen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/lib/screens/SplashScreen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/main.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/my_application.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/linux/my_application.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/Runner/Release.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/Runner.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/flutter_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/flutter_window.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/resource.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/resources/app_icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/runner.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/utils.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/win32_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../momscake.Mobile/windows/runner/win32_window.h" beforeDir="false" />
+    <list default="true" id="750b6256-b672-484f-a93e-6cb93dfcb16b" name="Changes" comment="fix BE architecture">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.momsCake.BE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.momsCake.BE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Application.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Microsoft.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/bin/Debug/net8.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/Application.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/ref/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/ref/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/refint/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/refint/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/staticwebassets/msbuild.build.Application.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Application.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Application.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/GlobalUsing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/GlobalUsing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/Models/Cake.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/Models/Cake.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/Models/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/Models/Category.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/bin/Debug/net8.0/Domain.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/bin/Debug/net8.0/Domain.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/bin/Debug/net8.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/bin/Debug/net8.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/bin/Debug/net8.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/bin/Debug/net8.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/Domain.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/ref/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/ref/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/refint/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Debug/net8.0/refint/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/Controllers/CakeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Controllers/CakeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/Controllers/DefaultApiController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Controllers/BaseApiController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/Host.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Host.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Host.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Host.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Host.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Host.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Migrators.MySQL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Migrators.MySQL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Migrators.MySQL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/bin/Debug/net8.0/Migrators.MySQL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/Host.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/ref/Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/ref/Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/refint/Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Debug/net8.0/refint/Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Host.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Host.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/Host.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/Host.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Host/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Host/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/Configurations/CategoryConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/Persistence/Configurations/CategoryConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Migrators.MySQL.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Migrators.MySQL.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Migrators.MySQL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Migrators.MySQL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Migrators.MySQL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/bin/Debug/net8.0/Migrators.MySQL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/Migrators.MySQL.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/ref/Migrators.MySQL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/ref/Migrators.MySQL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/refint/Migrators.MySQL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Debug/net8.0/refint/Migrators.MySQL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Migrators.MySQL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Migrators.MySQL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Migrators.MySQL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/Migrators.MySQL.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Migrators.MySQL/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -660,19 +181,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anacondaf"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="87e38c90-e162-475c-9a32-1b33188f30cd" />
+        <option name="url" value="git@github.com:anacondaf/MomsCake.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c01187c04fdf433fbcbf24d50ded04ab77200/7e/b301b61d/MySqlServerVersion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e4918c8ac7be482996b82eec990f156d11200/30/544c234b/IMediator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e4918c8ac7be482996b82eec990f156d11200/c8/bfcd38c5/ISender.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e7a6810948ee49f59b70840068d1ef11b2c600/de/c2521e1c/Guid.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/336d41fa645f0bf7cd0dbf31ab8c3cf81d9cbbc8b680c2717be195f4df1d73/IPublisher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5141e6fd7a52fefd6aea3ac3b3d2cca704a95447cebbdf540d09e379d3b6884/ISendEndpoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/57ef264888488357640f23a308ccecd818012805b7b56dd32bd469a819f56ee/IPipelineBehavior.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e7268004cea411c815a7ab3cb4144fbb696c52cfe11670e8ab0d8b26fa24/ServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e85c15252741a0524aaa1e625a88e92d1040e1375014acc6a6a94e685ceb3ce9/ServiceRegistrar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Api/Host/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Api/Infrastructure/Properties/stylecop.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eGPNi7uJ0JLfW2J0tYfsgbT0Am" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Host.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -682,6 +238,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -692,43 +249,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Host">
-    <configuration name="Application" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Application/Application.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="momsCake.BE" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/momsCake.BE/momsCake.BE.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Host" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Api/Host/Host.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -744,75 +265,6 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Migrators.MySQL: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Api/Migrators.MySQL/Migrators.MySQL.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
-      <option name="LAUNCH_PROFILE_NAME" value="http" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Migrators.MySQL: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Api/Migrators.MySQL/Migrators.MySQL.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
-      <option name="LAUNCH_PROFILE_NAME" value="https" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Mysql.Migrations: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Api/Mysql.Migrations/Mysql.Migrations.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
-      <option name="LAUNCH_PROFILE_NAME" value="http" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Mysql.Migrations: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Api/Mysql.Migrations/Mysql.Migrations.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
-      <option name="LAUNCH_PROFILE_NAME" value="https" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue=".NET Launch Settings Profile.Migrators.MySQL: http" />
-      <item itemvalue=".NET Launch Settings Profile.Migrators.MySQL: https" />
-      <item itemvalue=".NET Launch Settings Profile.Mysql.Migrations: http" />
-      <item itemvalue=".NET Launch Settings Profile.Mysql.Migrations: https" />
-      <item itemvalue=".NET Launch Settings Profile.Host" />
-      <item itemvalue=".NET Project.Application" />
-      <item itemvalue=".NET Project.momsCake.BE" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -823,13 +275,35 @@
       <option name="presentableId" value="Default" />
       <updated>1711527904628</updated>
       <workItem from="1711527906092" duration="6831000" />
+      <workItem from="1711540820232" duration="17850000" />
     </task>
+    <task id="LOCAL-00001" summary="change backend to clean architect.">
+      <option name="closed" value="true" />
+      <created>1711547841595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711547841595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix BE architecture">
+      <option name="closed" value="true" />
+      <created>1711547882046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711547882046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="change backend to clean architect." />
+    <MESSAGE value="fix BE architecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix BE architecture" />
   </component>
 </project>

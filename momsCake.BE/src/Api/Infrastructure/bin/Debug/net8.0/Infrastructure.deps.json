@@ -11,7 +11,8 @@
           "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
-          "Pomelo.EntityFrameworkCore.MySql": "8.0.0"
+          "Pomelo.EntityFrameworkCore.MySql": "8.0.0",
+          "StyleCop.Analyzers": "1.1.0-beta006"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -451,6 +452,7 @@
           }
         }
       },
+      "StyleCop.Analyzers/1.1.0-beta006": {},
       "System.CodeDom/4.4.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -783,6 +785,13 @@
       "sha512": "sha512-wEzKTeYCs/+cGSpT5zE8UrKkJyqpJ24yBufthDoCWUhpCCYUIsMKeX4fvaYcm9mbkfHP2dZ+p6V+ZKTAZ3hXRQ==",
       "path": "pomelo.entityframeworkcore.mysql/8.0.0",
       "hashPath": "pomelo.entityframeworkcore.mysql.8.0.0.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.0-beta006": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fC3kzvKv6UmMJaXxGTy2X8T8H2NHiKLN0oYWZQ+bd/y08rGpt3F/oLLbcxDngJ5q8gb//r20Jobv6KIJfM4aoA==",
+      "path": "stylecop.analyzers/1.1.0-beta006",
+      "hashPath": "stylecop.analyzers.1.1.0-beta006.nupkg.sha512"
     },
     "System.CodeDom/4.4.0": {
       "type": "package",

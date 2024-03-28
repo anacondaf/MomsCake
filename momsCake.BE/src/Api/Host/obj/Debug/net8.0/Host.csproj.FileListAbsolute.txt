@@ -125,3 +125,7 @@
 /home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/Migrators.MySQL.dll
 /home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/Migrators.MySQL.pdb
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/MediatR.dll
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/MediatR.Contracts.dll
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/Application.dll
+/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Host/bin/Debug/net8.0/Application.pdb

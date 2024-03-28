@@ -1,0 +1,15 @@
+<Project>
+    <ItemGroup>
+        <!-- Define the global DefaultIdType here. -->
+        <Using Include="System.Guid" Alias="DefaultIdType" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Update="Roslynator.Analyzers" Version="4.3.0">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+
+        <PackageReference Include="StyleCop.Analyzers" Version="1.1.0-beta006" PrivateAssets="all" />
+    </ItemGroup>
+</Project>

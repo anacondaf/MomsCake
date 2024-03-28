@@ -1,10 +1,11 @@
-using Api.Controllers;
+using Application.Handlers.Cake;
+using Application.Handlers.Cake.Dtos;
 using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Host.Controllers;
 
-public class CakeController: DefaultApiController
+public class CakeController : BaseApiController
 {
     [HttpGet]
     [Route("test/{randNum:guid}")]
@@ -25,5 +26,11 @@ public class CakeController: DefaultApiController
                 Price = 1.0m,
             },
         });
+    }
+
+    [HttpGet("{id:guid}")]
+    public async Task<CakeDto> GetCakeAsync(Guid id)
+    {
+        return await Mediator.Send(new GetCakeQuery(id));
     }
 }

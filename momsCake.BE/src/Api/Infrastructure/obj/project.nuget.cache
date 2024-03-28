@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lpVlcv4uHynea0gLqVWOvwq/gP4xzK2J11n4IkQigiwpN6JcVodYnHnxzRQfVet/w3qWZhQO65Pkx/W8njFFtQ==",
+  "dgSpecHash": "9fZdSnWpsUJJyCl4DYNtBSXXDvcv4z5KTRxaLic0ZXql7oQECD8Zxub4k3rb2HBf1AcA+ixRyCZ0N4Z0sfBbHA==",
   "success": true,
   "projectFilePath": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "/home/kainguyen/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/home/kainguyen/.nuget/packages/mysqlconnector/2.3.5/mysqlconnector.2.3.5.nupkg.sha512",
     "/home/kainguyen/.nuget/packages/pomelo.entityframeworkcore.mysql/8.0.0/pomelo.entityframeworkcore.mysql.8.0.0.nupkg.sha512",
+    "/home/kainguyen/.nuget/packages/stylecop.analyzers/1.1.0-beta006/stylecop.analyzers.1.1.0-beta006.nupkg.sha512",
     "/home/kainguyen/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/home/kainguyen/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/home/kainguyen/.nuget/packages/system.composition/6.0.0/system.composition.6.0.0.nupkg.sha512",

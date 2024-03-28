@@ -224,6 +224,9 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "StyleCop.Analyzers/1.1.0-beta006": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/8.0.0": {
         "type": "package",
         "compile": {
@@ -689,6 +692,29 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "StyleCop.Analyzers/1.1.0-beta006": {
+      "sha512": "fC3kzvKv6UmMJaXxGTy2X8T8H2NHiKLN0oYWZQ+bd/y08rGpt3F/oLLbcxDngJ5q8gb//r20Jobv6KIJfM4aoA==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.1.0-beta006",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "stylecop.analyzers.1.1.0-beta006.nupkg.sha512",
+        "stylecop.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "System.Diagnostics.DiagnosticSource/8.0.0": {
       "sha512": "c9xLpVz6PL9lp/djOWtk5KPDZq3cSYpmXoJQY524EOtuFl5z9ZtsotpsyrDW40U1DRnQSYvcPKEUV0X//u6gkQ==",
       "type": "package",
@@ -861,7 +887,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MassTransit >= 8.2.1-develop.1716"
+      "MassTransit >= 8.2.1-develop.1716",
+      "StyleCop.Analyzers >= 1.1.0-beta006"
     ]
   },
   "packageFolders": {
@@ -904,6 +931,11 @@
           "MassTransit": {
             "target": "Package",
             "version": "[8.2.1-develop.1716, )"
+          },
+          "StyleCop.Analyzers": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.0-beta006, )"
           }
         },
         "imports": [

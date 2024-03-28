@@ -1,4 +1,3 @@
-using Api.Domains;
 using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
