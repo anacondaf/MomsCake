@@ -892,19 +892,19 @@
     ]
   },
   "packageFolders": {
-    "/home/kainguyen/.nuget/packages/": {}
+    "C:\\Users\\kaing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/Domain.csproj",
+      "projectUniqueName": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/Domain.csproj",
-      "packagesPath": "/home/kainguyen/.nuget/packages/",
-      "outputPath": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/",
+      "projectPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\kaing\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kainguyen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kaing\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -954,7 +954,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

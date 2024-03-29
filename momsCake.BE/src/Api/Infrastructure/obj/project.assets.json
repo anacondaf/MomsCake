@@ -2667,19 +2667,19 @@
     ]
   },
   "packageFolders": {
-    "/home/kainguyen/.nuget/packages/": {}
+    "C:\\Users\\kaing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Infrastructure/Infrastructure.csproj",
-      "packagesPath": "/home/kainguyen/.nuget/packages/",
-      "outputPath": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Infrastructure/obj/",
+      "projectPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\kaing\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kainguyen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kaing\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2691,8 +2691,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/Domain.csproj": {
-              "projectPath": "/home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/Domain.csproj"
+            "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj"
             }
           }
         }
@@ -2746,7 +2746,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
