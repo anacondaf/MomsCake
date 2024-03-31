@@ -1,5 +1,6 @@
 using Application.Handlers.Cake.Dtos;
 using MediatR;
+using Microsoft.AspNetCore.Identity;
 
 namespace Application.Handlers.Cake;
 
@@ -14,6 +15,13 @@ public class GetCakeQuery(Guid id) : IRequest<CakeDto>
 
 public class GetCakeQueryHandler : IRequestHandler<GetCakeQuery, CakeDto>
 {
+    private readonly UserManager<IdentityUser> _userManager;
+
+    public GetCakeQueryHandler(UserManager<IdentityUser> userManager)
+    {
+        _userManager = userManager;
+    }
+
     public Task<CakeDto> Handle(GetCakeQuery request, CancellationToken cancellationToken)
     {
         return Task.FromResult(new CakeDto());

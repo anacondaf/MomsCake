@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s835+l2d9+vVG7r9YlI/gg9tOcfhGvQ/2/HxHNNxBfqjATeVHx78gCQIL1tvi1Kw33Vji/PVIPpnnkSpGL1+8Q==",
+  "dgSpecHash": "R0gdcZfv17O8t2Pw0SzyHBKsWEqIwbmfSlrzIm8t8BDn2di88wP+FL8ZyPI8Fn/8SjXrdKG7pAUVv0zV3WdMPg==",
   "success": true,
   "projectFilePath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,6 @@
     "C:\\Users\\kaing\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\kaing\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\kaing\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\kaing\\.nuget\\packages\\stylecop.analyzers\\1.1.0-beta006\\stylecop.analyzers.1.1.0-beta006.nupkg.sha512",
     "C:\\Users\\kaing\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\kaing\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\kaing\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",

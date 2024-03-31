@@ -1,9 +1,8 @@
-import "package:flutter/cupertino.dart";
 import "package:flutter/material.dart";
 import "package:gap/gap.dart";
 import "package:iconsax/iconsax.dart";
 import "package:moms_cake/screens/HomeScreen.dart";
-import "package:moms_cake/screens/SecondScreen.dart";
+import "package:moms_cake/screens/MyCart.dart";
 
 import "app_styles.dart";
 
@@ -19,7 +18,7 @@ class _AppNavigatorState extends State<AppNavigator> {
 
   final List<Widget> _screens = [
     const HomeScreen(),
-    const SecondScreen(),
+    const MyCartScreen(),
   ];
 
   @override
@@ -58,7 +57,9 @@ class _AppNavigatorState extends State<AppNavigator> {
                       ),
                       child: Icon(
                         Iconsax.home,
-                        color: _currentIndex == 0 ? AppStyles.orange : AppStyles.black,
+                        color: _currentIndex == 0
+                            ? AppStyles.orange
+                            : AppStyles.black,
                         size: 28,
                       ),
                     ),
@@ -79,7 +80,9 @@ class _AppNavigatorState extends State<AppNavigator> {
                       ),
                       child: Icon(
                         Iconsax.shopping_cart,
-                        color: _currentIndex == 1 ? AppStyles.orange : AppStyles.black,
+                        color: _currentIndex == 1
+                            ? AppStyles.orange
+                            : AppStyles.black,
                         size: 28,
                       ),
                     ),
@@ -104,7 +107,9 @@ class _AppNavigatorState extends State<AppNavigator> {
                       ),
                       child: Icon(
                         Iconsax.wallet_3,
-                        color: _currentIndex == 2 ? AppStyles.orange : AppStyles.black,
+                        color: _currentIndex == 2
+                            ? AppStyles.orange
+                            : AppStyles.black,
                         size: 28,
                       ),
                     ),
@@ -125,7 +130,9 @@ class _AppNavigatorState extends State<AppNavigator> {
                       ),
                       child: Icon(
                         Iconsax.user,
-                        color: _currentIndex == 3 ? AppStyles.orange : AppStyles.black,
+                        color: _currentIndex == 3
+                            ? AppStyles.orange
+                            : AppStyles.black,
                         size: 28,
                       ),
                     ),

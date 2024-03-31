@@ -11,3 +11,16 @@
 /home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/refint/Domain.dll
 /home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/Domain.pdb
 /home/kainguyen/code/Company_Projects/MomsCake/momsCake.BE/src/Api/Domain/obj/Debug/net8.0/ref/Domain.dll
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\bin\Debug\net8.0\Domain.dll
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.dll
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Projects\MomsCake\momsCake.BE\src\Api\Domain\obj\Debug\net8.0\ref\Domain.dll

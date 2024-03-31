@@ -1,18 +1,18 @@
-using Api.Configurations;
-using Application;
-using Infrastructure.Persistence;
+using System.Text.Json.Serialization;
+using FluentValidation.AspNetCore;
+using Host.Configurations;
+using Host.Extensions;
+using Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-builder.Services.AddControllers();
-
 builder.Configuration.AddJsonConfiguration();
 
-builder.Services.AddPersistence(builder.Configuration);
-builder.Services.AddApplication();
+builder.Services.AddFluentValidationAutoValidation().AddControllers();
+
+builder.Services
+    .HostBuilderService(builder.Configuration)
+    .AddApplicationServices();
 
 var app = builder.Build();
 

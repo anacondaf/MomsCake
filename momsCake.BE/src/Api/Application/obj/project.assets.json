@@ -91,9 +91,6 @@
           }
         }
       },
-      "StyleCop.Analyzers/1.1.0-beta006": {
-        "type": "package"
-      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "type": "package",
         "dependencies": {
@@ -482,29 +479,6 @@
         "microsoft.openapi.nuspec"
       ]
     },
-    "StyleCop.Analyzers/1.1.0-beta006": {
-      "sha512": "fC3kzvKv6UmMJaXxGTy2X8T8H2NHiKLN0oYWZQ+bd/y08rGpt3F/oLLbcxDngJ5q8gb//r20Jobv6KIJfM4aoA==",
-      "type": "package",
-      "path": "stylecop.analyzers/1.1.0-beta006",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
-        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
-        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
-        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
-        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
-        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
-        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
-        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
-        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
-        "stylecop.analyzers.1.1.0-beta006.nupkg.sha512",
-        "stylecop.analyzers.nuspec",
-        "tools/install.ps1",
-        "tools/uninstall.ps1"
-      ]
-    },
     "Swashbuckle.AspNetCore/6.4.0": {
       "sha512": "eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
       "type": "package",
@@ -591,7 +565,6 @@
     "net8.0": [
       "MediatR >= 12.2.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.2",
-      "StyleCop.Analyzers >= 1.1.0-beta006",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -639,11 +612,6 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[8.0.2, )"
-          },
-          "StyleCop.Analyzers": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[1.1.0-beta006, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

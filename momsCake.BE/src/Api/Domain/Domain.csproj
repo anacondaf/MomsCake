@@ -12,5 +12,6 @@
 
     <ItemGroup>
       <PackageReference Include="MassTransit" Version="8.2.1-develop.1716" />
+      <PackageReference Remove="StyleCop.Analyzers" />
     </ItemGroup>
 </Project>

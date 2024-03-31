@@ -4,6 +4,73 @@
     "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
+    "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\kaing\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kaing\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -41,11 +108,6 @@
             "MassTransit": {
               "target": "Package",
               "version": "[8.2.1-develop.1716, )"
-            },
-            "StyleCop.Analyzers": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.0-beta006, )"
             }
           },
           "imports": [
@@ -90,6 +152,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Application\\Application.csproj": {
+                "projectPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Application\\Application.csproj"
+              },
               "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj": {
                 "projectPath": "E:\\Projects\\MomsCake\\momsCake.BE\\src\\Api\\Domain\\Domain.csproj"
               }
@@ -106,6 +171,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -119,11 +188,6 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "StyleCop.Analyzers": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.0-beta006, )"
             }
           },
           "imports": [

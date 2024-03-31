@@ -1,4 +1,4 @@
-namespace Api.Configurations;
+namespace Host.Configurations;
 
 public static class Startup
 {
