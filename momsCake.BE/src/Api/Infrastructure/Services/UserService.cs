@@ -8,4 +8,9 @@ public class UserService: IUserService
     {
         return "Kai Nguyen";
     }
+
+    public int Calculate(int a, int b)
+    {
+        return a + b;
+    }
 }

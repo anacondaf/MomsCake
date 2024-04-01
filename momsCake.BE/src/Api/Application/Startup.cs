@@ -10,6 +10,7 @@ public static class Startup
     public static IServiceCollection AddApplication(this IServiceCollection service)
     {
         var assembly = Assembly.GetExecutingAssembly();
+        
         return service
             .AddMediatR(
             cfg =>
