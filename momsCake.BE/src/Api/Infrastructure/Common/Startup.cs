@@ -10,7 +10,8 @@ internal static class Startup
 
     private static IServiceCollection AddServices(this IServiceCollection services, Type interfaceType, ServiceLifetime lifetime)
     {
-        var assemblies = AppDomain.CurrentDomain.GetAssemblies(); // Get Assemblies of all projects within Api folder
+        // Get Assemblies of all projects within Api folder
+        var assemblies = AppDomain.CurrentDomain.GetAssemblies(); 
         
         var types = assemblies
             .SelectMany(s => s.GetTypes()).ToList();

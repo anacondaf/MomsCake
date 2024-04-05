@@ -9,8 +9,7 @@ public class CakeConfig: IEntityTypeConfiguration<Cake>
     public void Configure(EntityTypeBuilder<Cake> builder)
     {
         builder
-            .HasOne(c => c.Category)
-            .WithMany(cate => cate.Cakes)
-            .HasForeignKey(c => c.CategoryId);
+            .Property(c => c.Category)
+            .HasConversion<string>();
     }
 }

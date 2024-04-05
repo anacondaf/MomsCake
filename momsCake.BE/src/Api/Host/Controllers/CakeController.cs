@@ -44,8 +44,14 @@ public class CakeController : BaseApiController
     }
 
     [HttpGet("{id:guid}")]
-    public async Task<CakeDto> GetCakeAsync(Guid id)
+    public async Task<List<Cake>> GetCakeAsync(Guid id)
     {
         return await Mediator.Send(new GetCakeQuery(id));
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<Guid>> CreateCakeAsync([FromQuery] CreateCakeCommand request)
+    {
+        return Ok(await Mediator.Send(request));
     }
 }

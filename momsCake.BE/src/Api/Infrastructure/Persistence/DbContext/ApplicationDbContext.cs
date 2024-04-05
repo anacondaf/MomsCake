@@ -11,8 +11,6 @@ public class ApplicationDbContext : BaseDbContext
     
     public DbSet<Cake> Cakes => Set<Cake>();
 
-    public DbSet<Category> Categories => Set<Category>();
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

@@ -1,4 +1,6 @@
-namespace Api.Enums;
+using Domain.Attributes;
+
+namespace Domain.Enums;
 
 public enum CakeCategory
 {
